@@ -1,0 +1,6 @@
+used different libraries for this project mainly:
+
+1. Pandas
+2. pytorch
+3.gradio(for UI)
+
